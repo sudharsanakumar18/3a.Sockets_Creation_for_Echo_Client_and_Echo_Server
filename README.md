@@ -33,7 +33,8 @@ while True:
 ## OUPUT:
 ### Client
 
-![image](out.png)
+![image](https://github.com/user-attachments/assets/24ee0fe9-fb15-4087-aff3-da408eb26672)
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
